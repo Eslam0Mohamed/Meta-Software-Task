@@ -4,11 +4,11 @@ A responsive React Single Page Application (SPA) that fetches products from the 
 
 ## Live Demo
 
-[Live Demo](YOUR_DEPLOYMENT_LINK)
+[Live Demo](https://meta-software-task-chi.vercel.app/)
 
 ## Repository
 
-[GitHub Repository](YOUR_GITHUB_REPO_LINK)
+[GitHub Repository](https://github.com/Eslam0Mohamed/Meta-Software-Task.git)
 
 ## Features
 
